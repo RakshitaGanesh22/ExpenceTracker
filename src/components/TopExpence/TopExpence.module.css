@@ -1,0 +1,49 @@
+.main{
+    display: grid;
+    gap: 5px;
+}
+.TopName{
+    width: 261px;
+    height: 32px;
+    font-family: 'Ubuntu', sans-serif;
+    font-size: 28px;
+    font-style: italic;
+    font-weight: 700;
+    line-height: 32.17px;
+    text-align: left;
+    color: #FFFFFF;
+}
+.BarChart{
+    box-shadow: 0px 4px 4px 0px #00000040;
+    background-color: #FFFFFF;
+    width: 500px;
+    height: 345px;
+    border-radius: 15px;
+
+
+}
+
+.component{
+    position: inherit;
+    left:30px !important;
+    z-index: 1000;
+
+}
+.name{
+    color: #000000;
+    font-family: 'Ubuntu', sans-serif;
+    font-size: 12px;
+    font-weight: 400;
+    line-height: 16.34px;
+    position: inherit;
+    left:30px !important;
+
+}
+.BarChart .recharts-bar-rectangle {
+    border-radius: 10px 0 0 10px !important; 
+    background-color: #8784D2;
+  }
+  
+  .recharts-bar-rectangle {
+    stroke: none;
+  }

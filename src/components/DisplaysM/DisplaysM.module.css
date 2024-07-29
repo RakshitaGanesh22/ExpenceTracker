@@ -1,0 +1,10 @@
+.Dmain{
+    height: 386px;
+    width: 95.6%;
+    display: flex;
+    justify-content: space-between;
+    position: absolute;
+    top: 363px;
+    left: 32px;
+
+}

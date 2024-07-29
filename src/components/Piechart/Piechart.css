@@ -1,0 +1,81 @@
+.mainbox{
+    height: 265px;
+    width:270px;
+}
+.Piechart{
+    width: 199px;
+    height: 199px;
+  position: absolute;
+  top: 24px;
+  transform: rotate(0deg);
+}
+.MainClass{
+    width:264px;
+    height:16px;
+    position: absolute;
+    top: 244px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;;
+}
+.Food{
+    display: flex;
+    width: 26px;
+    height: 8px;
+    background-color: #A000FF;
+    position: relative;
+    top: 4px;
+    
+}
+.Entertainment{
+    display: flex;
+    width: 26px;
+    height: 8px;
+    background-color: #FF9304;
+    position: relative;
+    top: 4px;
+}
+.Travel{
+    display: flex;
+    width: 26px;
+    height: 8px;
+    background-color: #FDF006;
+    position: relative;
+    top: 4px;
+}
+.Foodl{
+    color: #FFFFFF;
+    font-family: 'Open Sans', sans-serif;
+    font-size: 12px;
+    font-weight: 400;
+    line-height: 16.34px;
+    text-align: left;
+    width: 28px;
+    height: 16px;
+    position: relative;
+    left:2px;
+}
+.Travell{
+    color: #FFFFFF;
+    font-family: 'Open Sans', sans-serif;
+    font-size: 12px;
+    font-weight: 400;
+    line-height: 16.34px;
+    text-align: left;
+    width: 28px;
+    height: 16px;
+    position: relative;
+    left:2px;
+}
+.Entertainmentl{
+    color: #FFFFFF;
+    font-family: 'Open Sans', sans-serif;
+    font-size: 12px;
+    font-weight: 400;
+    line-height: 16.34px;
+    text-align: left;
+    width: 28px;
+    height: 16px;
+    position: relative;
+    left:2px;
+}

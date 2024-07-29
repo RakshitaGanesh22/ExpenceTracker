@@ -1,0 +1,12 @@
+.DisplayFM{
+    width: 95.7%;
+    height: 269px;
+    position: absolute;
+    top: 58px;
+    display: flex;
+    left: 32px;
+    border-radius: 10px;
+    background-color: #626262;
+    justify-content: space-around;
+    gap: 200px;
+}
